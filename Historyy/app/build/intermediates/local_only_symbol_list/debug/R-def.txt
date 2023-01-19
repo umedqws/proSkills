@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable a
+drawable b
+drawable circle
+drawable cj
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable round
+id RcView
+id image
+id ramka
+layout activity_main
+layout historyimage_items
+layout items
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style ImageStyle_Circle
+style Image_Corner_Rounded
+style Theme.Historyy
+xml backup_rules
+xml data_extraction_rules
