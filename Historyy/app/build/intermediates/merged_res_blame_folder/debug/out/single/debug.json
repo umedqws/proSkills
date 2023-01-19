@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-merged_res-29:\\drawable_b.png.flat",
+        "source": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-main-31:\\drawable\\b.png"
+    },
+    {
+        "merged": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-merged_res-29:\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-main-31:\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-merged_res-29:\\drawable_round.xml.flat",
+        "source": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-main-31:\\drawable\\round.xml"
+    },
+    {
+        "merged": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-merged_res-29:\\layout_items.xml.flat",
+        "source": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-main-31:\\layout\\items.xml"
+    },
+    {
+        "merged": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-merged_res-29:\\drawable_a.jpg.flat",
+        "source": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-main-31:\\drawable\\a.jpg"
+    },
+    {
+        "merged": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.historyy.app-merged_res-29:/layout_items.xml.flat",
+        "source": "com.example.historyy.app-main-31:/layout/items.xml"
+    },
+    {
+        "merged": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-merged_res-29:\\drawable_cj.jpeg.flat",
+        "source": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-main-31:\\drawable\\cj.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-merged_res-29:\\layout_historyimage_items.xml.flat",
+        "source": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-main-31:\\layout\\historyimage_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\umedj\\.gradle\\daemon\\7.4\\com.example.historyy.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    }
+]
